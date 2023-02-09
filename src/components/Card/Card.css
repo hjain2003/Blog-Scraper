@@ -1,0 +1,25 @@
+#card_wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 350px;
+    width: 300px;
+    border: 2px solid black;
+    padding: 5px;
+}
+#img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px solid black;
+    height: 175px;
+    /* margin-top: 0px; */
+}
+#card_text{
+    border:2px solid black;
+    height: 175px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
