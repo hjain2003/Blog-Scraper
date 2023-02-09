@@ -1,0 +1,44 @@
+#about_wrapper{
+    /* border: 2px solid black; */
+    /* height: 100px; */
+    margin-top:90px ;
+    /* padding: 10px; */
+}
+#text_img_wrapper{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    align-items: center;
+    justify-content: space-between;
+    /* border: 8px solid black; */
+    width: 1080px;
+    margin-top: 100px;
+    padding: 10px;
+}
+#about_text h1{
+    font-size: 80px;
+}
+#about_text{
+    /* border: 2px solid green; */
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    /* margin-left: 100px; */
+    /* margin-top: 100px; */
+    padding: 10px;
+    font-size: 17px;
+}
+#sign_up_btn{
+    width:150px;
+    padding: 5px;
+    border-radius:2px;
+    background-color: #2749AB;
+    color: white;
+    border: none;
+    font-size: 18px;
+}
+#photo_container img{
+    height: 500px;
+    margin-top: 40px;
+    /* margin-top: 70px; */
+}
