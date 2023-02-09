@@ -29,6 +29,7 @@
     color: white;
     border: none;
     font-size: 18px;
+    cursor: pointer;
 }
 #photo_container img{
     height: 500px;

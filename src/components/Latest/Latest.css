@@ -1,8 +1,33 @@
 #latest_wrapper{
-    height:87vh;
-    border:2px solid black;
+    /* height:87vh; */
+    /* border:2px solid black; */
 }
 #latest_wrapper h1{
     margin-top: 50px;
     font-size: 60px;
+}
+#card_slider_wrapper{
+    display: flex;
+    margin: auto;
+    /* border:2px solid black; */
+    align-items: center;
+    justify-content: center;
+    height: 480px;
+    width: 1030x;
+    padding: 5px;
+    /* border: 2px solid green; */
+}
+.carousel{
+    /* align-items: center; */
+    margin: auto;
+    padding: 5px;
+    height:400px;
+    width:1000px;
+    /* border:2px solid green; */
+}
+#next_prev_btn{
+    width: 950px;
+    /* border:2px solid black; */
+    display: flex;
+    justify-content: center;
 }
